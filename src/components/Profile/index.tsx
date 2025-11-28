@@ -1,5 +1,5 @@
-import resumeUrl from "../../assets/TonNuNgocKhanh-resume.pdf";
-import profileImage from "../../assets/TonNuNgocKhanh.jpg";
+import resumeUrl from "/assets/TonNuNgocKhanh-resume.pdf";
+import profileImage from "/assets/TonNuNgocKhanh.jpg";
 
 const Profile = () => {
   return (

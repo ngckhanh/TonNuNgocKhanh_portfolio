@@ -10,7 +10,7 @@ const Project = () => {
         <ProjectItem
           name="NomNom | Food Recipe App"
           description="NomNom is a dedicated mobile application designed to simplify the culinary journey. It empowers users to discover, save, and effortlessly cook their favorite dishes. This project was developed in collaboration with my team at NAB (National Australia Bank) as part of the weCamp Batch 8 program."
-          image="src/assets/NomNom.png"
+          image="/assets/NomNom.png"
           github_src="https://github.com/NomNomNAB/NomNom_frontend"
           web_src="https://nomnom-nab.vercel.app/"
           type="Project"
@@ -18,7 +18,7 @@ const Project = () => {
         <ProjectItem
           name="Origity | e-Commerce Platform for Digital Watermarking Images"
           description="Origity is an innovative e-commerce platform where every product image is securely protected with invisible watermarking technology, ensuring authenticity and preventing unauthorized use. This was my capstone project, which proudly secured the third prize in the final competition."
-          image="src/assets/origity.png"
+          image="/assets/origity.png"
           github_src="https://github.com/TTechT-Capstone/TTechT-frontend"
           web_src="https://www.origity.store/"
           type="Capstone Project"
@@ -26,7 +26,7 @@ const Project = () => {
         <ProjectItem
           name="BachDuong | IELTS Speaking Practice Website"
           description="Bach Duong App is a dedicated web platform designed to significantly enhance your English language proficiency, specifically focusing on IELTS Speaking and Writing skills."
-          image="src/assets/bachduong.png"
+          image="/assets/bachduong.png"
           github_src="https://github.com/ngckhanh/bd-frontend"
           web_src="https://bd-frontend.vercel.app/"
           type="Project"
@@ -34,7 +34,7 @@ const Project = () => {
         <ProjectItem
           name="TEDxHoChiMinhCity | Tỏ Tường 2024"
           description="This was a professional collaboration project with TEDxHoChiMinhCity for the promotion of their inaugural season of 'Tỏ Tường' event in 2024."
-          image="src/assets/totuong.png"
+          image="/assets/totuong.png"
           github_src="https://github.com/TEDxHCMC/frontend"
           web_src="https://www.tedxhochiminhcity.com/"
           type="Professional Project"
