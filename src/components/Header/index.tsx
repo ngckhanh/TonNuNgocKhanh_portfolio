@@ -1,4 +1,4 @@
-import resumeUrl from '../../assets/TonNuNgocKhanh-resume.pdf'
+import resumeUrl from '/assets/TonNuNgocKhanh-resume.pdf'
 
 const Header = () => {
   return (
